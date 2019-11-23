@@ -2,7 +2,7 @@
 Programmed using C++ with a bash interface.   
 
 
-# Commands
+## Commands
 Let n be some even number greater than 3 and less than 20.  
 Let x, y be some number in the boards coordinates.  
 
@@ -12,12 +12,15 @@ _new n_: Create a new board
 _play x y_ : Sets a piece at the x, y coordinates   
 
 
-# Setup
-Requires the downloading XQuartz or some graphic displayer for play.  
-
-# Demonstation
+## Demo
 Graphic Display  
-![](MyReversii.png)  
+![](MyReversii.png)   
+
 
 Text Display on Bash
-![](MyReversii.png)  
+![](MyReversiiTD.png)  
+
+
+
+## Setup
+Requires the downloading XQuartz or some graphic displayer for play.  
