@@ -1,5 +1,7 @@
-# My Reversii 
-Reversi is a strategy board game for two players, played on an 8×8 uncheckered board. There are sixty-four identical game pieces called disks (often spelled "discs"), which are light on one side and dark on the other. Players take turns placing disks on the board with their assigned color facing up. The game is programmed using C++ with a bash interface.    
+# My Reversii
+The classic Reversi is a strategy board game for two players, played on an 8×8 uncheckered board. There are sixty-four identical game pieces called disks (often spelled "discs"), which are light on one side and dark on the other. Players take turns placing disks on the board with their assigned color facing up. \
+
+In my version of the game, players can choose the size of the board. The game is programmed using C++ with a bash interface.    
 
 
 ## Commands
