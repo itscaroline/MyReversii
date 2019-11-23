@@ -21,11 +21,11 @@ Requires the downloading XQuartz or some graphic displayer for play.
 
 ## Demo
 Graphic Display  
-![](MyReversii.png)     
+![](../Images/MyReversii.png)     
 
 
 Text Display on Bash  
-![](MyReversiiTD.png)  
+![](../Images/MyReversiiTD.png)  
 
 
 
