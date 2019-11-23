@@ -14,3 +14,10 @@ _play x y_ : Sets a piece at the x, y coordinates
 
 # Setup
 Requires the downloading XQuartz or some graphic displayer for play.  
+
+# Demonstation
+Graphic Display  
+![](MyReversii.png)  
+
+Text Display on Bash
+![](MyReversii.png)  
