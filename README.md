@@ -14,10 +14,10 @@ _play x y_ : Sets a piece at the x, y coordinates
 
 ## Demo
 Graphic Display  
-![](MyReversii.png)   
+![](MyReversii.png)     
 
 
-Text Display on Bash
+Text Display on Bash  
 ![](MyReversiiTD.png)  
 
 
