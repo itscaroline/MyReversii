@@ -27,4 +27,4 @@ Text Display on Bash
 
 
 ## Setup
-Requires the downloading XQuartz or some graphic displayer for play. Extended from OOSD course.
+Requires the downloading XQuartz or some graphic displayer to play. Extended from OOSD course.
